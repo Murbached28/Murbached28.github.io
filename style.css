@@ -29,6 +29,16 @@ header {
   color: #777;
 }
 
+.foto {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 20px;
+  object-fit: cover;
+}
+
+
 footer {
   background-color: #eee;
   text-align: center;
